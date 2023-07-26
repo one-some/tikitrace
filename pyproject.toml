@@ -1,0 +1,7 @@
+[project]
+name = "tikitrace"
+version = "0.0.1"
+authors = [
+  { name="one-some" },
+]
+description = "Torch debugging"
